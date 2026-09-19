@@ -13,3 +13,5 @@ Adapted from: https://stackoverflow.com/questions/47867949/how-can-i-check-for-a
 which was adapted from: https://gist.github.com/altrive/5329377
 which was based on:     https://gallery.technet.microsoft.com/scriptcenter/Get-PendingReboot-Query-bdb79542 
 which seems to have moved to: https://github.com/bcwilhite/PendingReboot
+
+forking as I've lost access to my original stringydave account
